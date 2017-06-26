@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!ELEMENT wordlist (word)*>
+<!ELEMENT word (english|serbian)*>
+<!ATTLIST word id ID #IMPLIED>
+<!ELEMENT english (#PCDATA)>
+<!ELEMENT serbian (#PCDATA)>

@@ -1,0 +1,80 @@
+<!DOCTYPE wordlist SYSTEM "wordlist.dtd">
+<wordlist>
+
+    <word id ="Kompjuter">
+        <english>Computer</english>
+    </word>
+   
+    <word id="Computer">
+        <serbian>Kompjuter</serbian>
+    </word>
+   
+    <word id ="Leptir">
+        <english>Butterfly</english>
+    </word>
+   
+    <word id="Butterfly">
+        <serbian>Leptir</serbian>
+    </word>
+   
+    <word id ="Kuća">
+        <english>House</english>
+    </word>
+   
+    <word id="House">
+        <serbian>Kuca</serbian>
+    </word>
+   
+    <word id ="Vrata">
+        <english>Door</english>
+    </word>
+    <word id="Door">
+        <serbian>Vrata</serbian>
+    </word>
+
+    <word id ="Časa">
+        <english>Glass</english>
+    </word>
+   
+    <word id="Glass">
+        <serbian>Casa</serbian>
+    </word>
+    
+      <word id ="Ploča">
+        <english>Glass</english>
+    </word>
+   
+    <word id="Vinyl">
+        <serbian>Casa</serbian>
+    </word>
+    
+   <word id ="Zvučnici">
+        <english>Glass</english>
+    </word>
+   
+    <word id="Speakers">
+        <serbian>Casa</serbian>
+    </word>
+    
+      <word id ="Telefon">
+        <english>Glass</english>
+    </word>
+   
+    <word id="Phone">
+        <serbian>Casa</serbian>
+    </word>
+      <word id ="Lampa">
+        <english>Glass</english>
+    </word>
+   
+    <word id="Lamp">
+        <serbian>Casa</serbian>
+    </word>
+      <word id ="Slika">
+        <english>Glass</english>
+    </word>
+   
+    <word id="Picture">
+        <serbian>Casa</serbian>
+    </word>
+</wordlist>

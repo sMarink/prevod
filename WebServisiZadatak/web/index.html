@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TRANSLATOR</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="style.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="wrap">
+            <div id="Form" class="forma">
+                <form method="post" action="http://localhost:8080/WebServices1/rest/Translation/translate">
+
+                    <p id="h1">Enter word:</p>
+
+                    <p id ="p1"> Word : <input type="text" name="word"/> </p>
+
+                    <p id="h2"> Enter language : <br>
+                        serbian/srpski - english/engleski </p>
+
+                    <p id ="p2"> Language : <input type="text" name="language"/> </p>
+
+                    <p id="d1" class="button"> <input class="sub"  type="submit" value="Translate"> </p>
+
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
